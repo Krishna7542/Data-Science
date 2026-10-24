@@ -44,3 +44,6 @@
 
 # s1 = Student("krishna", [90, 80, 70])   
 # s1.get_avg()
+
+
+

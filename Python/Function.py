@@ -18,4 +18,3 @@ def function_name(parameter1, parameter2):
     # Indented code block
     result = parameter1 + parameter2
     return result # Optional: returns a value.
-.

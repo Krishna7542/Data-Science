@@ -17,4 +17,4 @@ print(f"Item 1 Total: ${item_one_total}")
 def function_name(parameter1, parameter2):
     # Indented code block
     result = parameter1 + parameter2
-    return result # Optional: returns a value.
+    return result # Optional: returns a value

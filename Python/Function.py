@@ -10,9 +10,9 @@ def calculate_total_price(price, tax_rate=0.05):
 item_one_total = calculate_total_price(100)
 print(f"Item 1 Total: ${item_one_total}")
 
-# Overriding the default tax rate with a custom rate (0.12)
-# item_two_total = calculate_total_price(250, 0.12)
-# print(f"Item 2 Total: ${item_two_total}")
+Overriding the default tax rate with a custom rate (0.12)
+item_two_total = calculate_total_price(250, 0.12)
+print (f"Item 2 Total: ${item_two_total}")
 
 def function_name(parameter1, parameter2):
     # Indented code block
